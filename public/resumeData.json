@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Yannis Mavinga",
-    "occupation": "(Développeur",
-    "description": "Passionné par les nouvelles technologies et l’informatique, j’ai effectué mes deux premières années d’études supérieures à EPITECH avant d’être admis pour la suite de mon cursus à l’ETNA, dans le cadre de leur programme en 3 ans. Je suis désormais à la recherche d’un contrat d’une durée de une à trois ans pour la rentrée 2021.",
+    "occupation": "Développeur",
+    "description": "",
     "image": "profilepic.jpg",
     "bio": "Passionné par les nouvelles technologies et l’informatique, j’ai effectué mes deux premières années d’études supérieures à EPITECH avant d’être admis pour la suite de mon cursus à l’ETNA, dans le cadre de leur programme en 3 ans. Je suis désormais à la recherche d’un contrat d’une durée de une à trois ans pour la rentrée 2021.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -18,24 +18,9 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/yannis-mavinga-253497166/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -50,13 +35,13 @@
       {
         "school": "ETNA",
         "degree": "Master of science",
-        "graduated": "April 2007",
+        "graduated": "Juin 2024",
         "description": "Architecte logicielle, développeur d'application"
       },
       {
         "school": "EPITECH",
         "degree": "Programme grande école",
-        "graduated": "March 2003",
+        "graduated": "Juin 2021",
         "description": "Expert en technologie de l'information"
       }
     ],
@@ -65,13 +50,7 @@
         "company": "Bubble of London",
         "title": "Développeur polyvalent",
         "years": "Juin 2021 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Site WordPress de location de spa mobiles."
       }
     ],
     "skills": [
@@ -108,34 +87,58 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Jeu de plateforme (CSFML)",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "Jeu de tir en parallax",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
+        "title": "RPG en solo",
         "category": "Website I built for a restaurant I like in Thailand",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title": "Resume Website",
+        "title": "Jeu de Sokoban",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Smirkspace",
+        "title": "Jeu de Sokoban",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Jeu de l'allumette",
         "category": "(MVP Only) A React and Meteor based chat University project.",
         "image": "smirkspace.jpg",
         "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Minishell",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Guess The Flag !",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Convertisseur de devises",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
       }
     ]
   },
